@@ -1,4 +1,6 @@
 # Shrinker
+
+This project has been moved to: https://github.com/Plutonomicon/Shrinker
 This project contains tools for shrinking plutus scripts.
 
 ## Using Shrinker
